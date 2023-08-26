@@ -1,0 +1,4 @@
+<script>
+const fruits=['Orange', 'Apple', 'Mango', 'Pear']
+        console.log(fruits)
+    </script>
